@@ -57,10 +57,7 @@ R Statistics
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/lot3_ttest.png)
 
 ### Analysis
-
-
-
-
+#### The *T-test* accross all manufacturing lot indicates a score of *-1.89* and a *p-value* of *0.06*. Assuming the 0.05 as the level of significance, the calculated *p-value* is higher. Therefore, we fail to reject the null hypothesis, and the two means are statistically similar. In addition, all lots but lot 3, have higher *p-value* than the level of significance. Lot 3 has a *p-value* of *0.4*, therefore, the null hypothesis is rejected, and the two means are statiscally different. This findings supports the fact that Lot 3 average have exceeded design criteria for suspension coils.
 
 
 
