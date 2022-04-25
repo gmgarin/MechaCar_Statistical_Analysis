@@ -38,7 +38,7 @@ R Statistics
 
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/overall_t_test.png)
 
-p align="center">
+<p align="center">
   *T-test* for Lot 1
 </p>
 
