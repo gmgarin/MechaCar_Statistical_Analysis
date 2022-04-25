@@ -68,5 +68,14 @@ R Statistics
 ### Reliability and Safety
 #### Car's reliability is defined how vehicles have held up and the odds that an owner could be incovenienced by problems and repairs, according to [Consumer Reports](https://www.consumerreports.org/cars-car-reliability-guide/). The [National Highway Traffic Safety Administration’s](https://www.nhtsa.gov/ratings) New Car Assessment Program (NCAP) created the 5-Star Safety Ratings Program to provide consumers with information about the crash protection and rollover safety of new vehicles beyond what is required by Federal law. One star is the lowest rating; five stars is the highest. More stars equal safer cars.
 
+### Null and Alternative Hypotheses
+#### *Null Hypothesis*: MechaCar prototypes' average reliabilty and safety ratings are similar competitor's vehicles.
+#### *Alternative Hypothesis*: MechaCar prototypes' average reliabilty and safety ratings are nnot similar competitor's vehicles.
+
+### Statistical Analysis Tool to be Used
+#### For this statiscal study, I would like to use **Two-Way ANOVA* since I would be testing multiple variables.
+
+### Data Needed
+#### The data that will be collected will be coming from [Consumer Reports](https://www.consumerreports.org/cars-car-reliability-guide/) reliability ratings data and [National Highway Traffic Safety Administration](https://www.nhtsa.gov/ratings) safety ratings data.
 
 
