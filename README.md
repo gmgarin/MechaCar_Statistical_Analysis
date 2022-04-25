@@ -60,5 +60,12 @@ R Statistics
 #### The *T-test* accross all manufacturing lot indicates a score of *-1.89* and a *p-value* of *0.06*. Assuming the 0.05 as the level of significance, the calculated *p-value* is higher. Therefore, we fail to reject the null hypothesis, and the two means are statistically similar. In addition, all lots but lot 3, have higher *p-value* than the level of significance. Lot 3 has a *p-value* of *0.4*, therefore, the null hypothesis is rejected, and the two means are statiscally different. This findings supports the fact that Lot 3 average have exceeded design criteria for suspension coils.
 
 
+## Study Design: MechaCar vs Competition.
+### Deliverable 4: Design a Study Comparing the MechaCar to the Competition 
+
+#### Car manufacturing industry is constantly changing because of many reasons. Car manufacturers have to adapt to these changes to stay in the market. On the other hand, consumers have a wide range of options when it comes to car buying. With these great many options, it all boils down to consumer prerences and budget. MecharCar will have the chance in the car manufacturing industry if it will pride itself in producing reliable and safe cars.
+
+### Reliability and Safety
+#### Car's reliability is defined how vehicles have held up and the odds that an owner could be incovenienced by problems and repairs. According to [Consumer Reports}(https://www.consumerreports.org/cars-car-reliability-guide/)
 
 
