@@ -33,30 +33,30 @@ R Statistics
 ## T-Tests on Suspension Coils
 
 <p align="center">
-  *T-test* for Total Summary 
+  T-test for Total Summary 
 </p>
 
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/overall_t_test.png)
 
 <p align="center">
-  *T-test* for Lot 1
+  T-test for Lot 1
 </p>
 
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/lot1_ttest.png)
 
 <p align="center">
-  *T-test* for Lot 2
+  T-test for Lot 2
 </p>
 
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/lot2_ttest.png)
 
 <p align="center">
-  *T-test* for Lot 3
+  T-test for Lot 3
 </p>
 
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/ad224f220b514a72c0ede624330cf970eb0b2daa/resources/lot3_ttest.png)
 
-
+### Analysis
 
 
 
