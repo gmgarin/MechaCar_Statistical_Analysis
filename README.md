@@ -66,6 +66,7 @@ R Statistics
 #### Car manufacturing industry is constantly changing because of many reasons. Car manufacturers have to adapt to these changes to stay in the market. On the other hand, consumers have a wide range of options when it comes to car buying. With these great many options, it all boils down to consumer prerences and budget. MecharCar will have the chance in the car manufacturing industry if it will pride itself in producing reliable and safe cars.
 
 ### Reliability and Safety
-#### Car's reliability is defined how vehicles have held up and the odds that an owner could be incovenienced by problems and repairs. According to [Consumer Reports}(https://www.consumerreports.org/cars-car-reliability-guide/)
+#### Car's reliability is defined how vehicles have held up and the odds that an owner could be incovenienced by problems and repairs, according to [Consumer Reports](https://www.consumerreports.org/cars-car-reliability-guide/). The [National Highway Traffic Safety Administration’s](https://www.nhtsa.gov/ratings) New Car Assessment Program (NCAP) created the 5-Star Safety Ratings Program to provide consumers with information about the crash protection and rollover safety of new vehicles beyond what is required by Federal law. One star is the lowest rating; five stars is the highest. More stars equal safer cars.
+
 
 
