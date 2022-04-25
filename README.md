@@ -73,7 +73,7 @@ R Statistics
 #### *Alternative Hypothesis*: MechaCar prototypes' average reliabilty and safety ratings are nnot similar competitor's vehicles.
 
 ### Statistical Analysis Tool to be Used
-#### For this statiscal study, I would like to use **Two-Way ANOVA* since I would be testing multiple variables.
+#### For this statiscal study, I would like to use **Two-Way ANOVA** since I would be testing multiple variables.
 
 ### Data Needed
 #### The data that will be collected will be coming from [Consumer Reports](https://www.consumerreports.org/cars-car-reliability-guide/) reliability ratings data and [National Highway Traffic Safety Administration](https://www.nhtsa.gov/ratings) safety ratings data.
