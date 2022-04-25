@@ -12,3 +12,29 @@ R Statistics
 
 #### In conclusion, this linear model effectively predicts mpg of MechaCar prototypes. Understanding the statistical analysis used, *R-squared* value is 71.5% , there is a higher *t-value* and a lower *p-value*, therefore the predictor linear model is significant.
 
+# Summary Statistics on Suspension Coils
+### Deliverable 2: Create Visualizations for the Trip Analysis
+
+<p align="center">
+   Total Summary
+</p>
+
+![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/56348a2736f74201e70b438dcd0d6a7f3cecc5d9/resources/total_summary.png)
+
+<p align="center">
+  Lot Summary
+</p>
+
+![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/56348a2736f74201e70b438dcd0d6a7f3cecc5d9/resources/lot_summary.png)
+
+### Analysis: 
+#### 
+
+
+
+
+
+
+
+
+
