@@ -28,7 +28,7 @@ R Statistics
 ![This is an image](https://github.com/gmgarin/MechaCar_Statistical_Analysis/blob/56348a2736f74201e70b438dcd0d6a7f3cecc5d9/resources/lot_summary.png)
 
 ### Analysis: 
-#### 
+#### For the total summary, the variance is at *62.3 psi*, which is under *100 psi*. This means that generally, the MechaCar prototypes meets the criteria design specifications for suspension coils. However, looking at each individually, Lot 3 has exceeded the *100 psi* design specification. In other words, some vehicles manufactured have not met the standard for suspension coils.
 
 
 
